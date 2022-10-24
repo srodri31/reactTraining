@@ -13,7 +13,9 @@ Test your answers using
     
 ## Module 2: Unit testing fundamentals
 
-Their located in /unitTestingFundametals, there you can find a functional React application, you'll have to add unit tests to both the main App.js component and the isAnAdult.js utility
+Their located in /unit-testing-fundametals, there you can find a functional React application, you'll have to add unit tests to both the main App.js component and the isAnAdult.js utility
+- /unit-testing-fundametals/src/\_\_tests\_\_/components/App.test.js
+- /unit-testing-fundametals/src/\_\_tests\_\_/utils/isAnAdult.test.js
 
 ### First steps
 
